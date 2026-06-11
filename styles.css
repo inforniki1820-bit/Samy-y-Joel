@@ -1,0 +1,24 @@
+body {
+    padding-top: 56px;
+}
+
+.card-deck .card {
+    min-width: 220px;
+    margin-bottom: 20px;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
